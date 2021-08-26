@@ -1,4 +1,4 @@
-<h3>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> , I'm Dhruvika Babariya </h3>
+<h2 style="align-item:center;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> , I'm Dhruvika Babariya </h2>
 🌱 I’m currently learning javascript & express js <br>
 ⚡ Hobby: Love to listening songs and Watching Movie
 <hr>
