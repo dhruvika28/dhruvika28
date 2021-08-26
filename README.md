@@ -4,7 +4,7 @@
 <hr>
 <h4>Languages and Tools:</h4>
 
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code><img height="50" src="https://iconape.com/wp-content/files/wd/352572/svg/352572.svg"></code><code> 
  
